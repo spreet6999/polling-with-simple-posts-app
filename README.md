@@ -13,7 +13,7 @@ This simple application demonstrates a basic polling mechanism for fetching post
 ### Clone this repository:
 
 ```Bash
-git clone https://github.com/<your-username>/polling-demo-posts-app.git
+git clone https://github.com/spreet6999/polling-demo-posts-app.git
 ```
 
 ### Navigate to the project directory:
